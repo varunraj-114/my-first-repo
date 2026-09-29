@@ -6,3 +6,5 @@ Editing from my computer now.
 
 Trying a new idea in this branch.
 
+## What I learned
+   Git, GitHub, branches, and pull requests.
