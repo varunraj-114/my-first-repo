@@ -8,3 +8,4 @@ Trying a new idea in this branch.
 
 ## What I learned
    Git, GitHub, branches, and pull requests.
+My goal: automate Tekla with AI. 
